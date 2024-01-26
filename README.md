@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**albinjm/albinjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third-year undergraduate student of Computer Science and Engineering, passionate about exploring the frontiers of Machine Learning and Natural Language Processing Research.
 
-Here are some ideas to get you started:
+You can find me on [LinkedIn](https://in.linkedin.com/in/albinjm/) or visit my [personal webpage](https://albinjm.github.io/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning about computer vision
+- 👯 I'm looking to collaborate on research related to AI, ML and RL
+- 📫 How to reach me: albinjames2002[at]gmail.com
+
+<!-- - 🔭 I'm currently working on ... -->
+<!-- - 🤔 I'm looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
